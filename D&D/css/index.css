@@ -22,6 +22,10 @@ body{
   height: 470px
 }
 
+.div1:hover {
+        background-color:blue ;
+    }
+
 .PC{
   float:left;
   border: solid black 2px;
@@ -29,6 +33,11 @@ body{
   background-color: black;
   color: white;
   text-align: center;
+}
+
+.PC:hover{
+  border: solid blue 2px;
+  background-color: blue;
 }
 
 .menu{
